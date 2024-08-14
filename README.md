@@ -6,3 +6,5 @@ SDL2 does not natively support drawing a circle, so instead I convert the circle
 Usage: To run the program, run the make file, and then start the application with ./particle_sim <number of particles>. There is no hardcoded limit of particles, however you have to have at least one. Should you input a ridiculously large number of particles it will either break or run extremely slow as SDL2 is not the most performant graphics library out there.
 
 Note: Debugging print statements are left in as this was a learning experience.
+
+![alt text](https://github.com/jakeesmith01/particle-collision/blob/main/particle-collision.png)
